@@ -1,5 +1,7 @@
 # `String.prototype.replaceAll` proposal
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ## Status
 
 Champion: Mathias Bynens (Google, @mathiasbynens).
